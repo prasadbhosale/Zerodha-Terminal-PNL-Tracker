@@ -1,0 +1,3 @@
+kiteconnect
+rich
+python-dotenv
